@@ -1,0 +1,8 @@
+# jemdoc: menu{menu.conf}, title{About}
+= About
+
+This is a second page. Edit `src/about.jemdoc` and rebuild:
+
+- Run `make`
+- Commit & push
+
