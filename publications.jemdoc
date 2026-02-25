@@ -2,55 +2,70 @@
 = Publications & Presentations
 
 == Journal Publications
-- *Risk of Cascading Collisions in Network of Vehicles with Delayed Communication* \n
-  *Guangyi Liu*, Christoforos Somarakis, and Nader Motee. \n
-  /IEEE Transactions on Automatic Control (IEEE-TAC)/, 2025.
-- *Risk of Phase Incoherence in Wide Area Control of Synchronous Power Networks.* \n
-  Christoforos Somarakis, *Guangyi Liu*, and Nader Motee. \n
-  /IEEE Transactions on Automatic Control (IEEE-TAC)/, 2023.
+- \[J2\]. *Guangyi Liu*, Christoforos Somarakis, and Nader Motee. 
+  [https://ieeexplore.ieee.org/abstract/document/11278085 Risk of Cascading Collisions in Network of Vehicles with Delayed Communication], 
+  /IEEE-TAC/, 2026.
+- \[J1\]. Christoforos Somarakis, *Guangyi Liu*, and Nader Motee. 
+  [https://ieeexplore.ieee.org/document/10171453 Risk of Phase Incoherence in Wide Area Control of Synchronous Power Networks],
+  /IEEE-TAC/, 2023.
 
 == Conference Proceedings
-- *Distributionally Robust Multi-Agent Reinforcement Learning for Dynamic Chute Mapping.* \n
-  *Guangyi Liu*, Suzan Iloglu, Michael Caldara, Joseph W. Durham, Michael M. Zavlanos. \n
-  /Proceedings of the 42nd International Conference on Machine Learning/, 2025.
-- *Data-Driven Distributionally Robust Mitigation of Risk of Cascading Failures.* \n
-  *Guangyi Liu*, Arash Amini, Vivek Pandey, and Nader Motee. \n
-  /American Control Conference (ACC)/, 2024.
-- *Symbolic Perception Risk in Autonomous Driving.* \n
-  *Guangyi Liu*, Disha Kamale, Cristian-Ioan Vasile, and Nader Motee. \n
-  /American Control Conference (ACC)/, 2023.
-- *Cascading Waves of Fluctuation in Time-delay Multi-agent Rendezvous.* \n
-  *Guangyi Liu*, Vivek Pandey, Christoforos Somarakis, and Nader Motee. \n
-  /American Control Conference (ACC)/, 2023.
-- *Impact of Misperception on Emergence of Risk in Platoon of Autonomous Vehicles.* \n
-  Arash Amini, *Guangyi Liu*, Vivek Pandey, and Nader Motee. \n
-  /IEEE Conference on Decision and Control (CDC)/, 2023.
-- *Emergence of Cascading Risk and Role of Spatial Locations of Collisions in Time-Delayed Platoon of Vehicles.* \n
-  *Guangyi Liu*, Christoforos Somarakis, and Nader Motee. \n
-  /The 61st IEEE Conference on Decision and Control (CDC)/, 2022.
-- *Risk of Cascading Failures in Multi-agent Rendezvous with Communication Time Delay.* \n
-  *Guangyi Liu*, Vivek Pandey, Christoforos Somarakis, and Nader Motee. \n
-  /American Control Conference (ACC)/, 2022.
-- *Risk of Cascading Failures in Time-Delayed Vehicle Platooning.* \n
-  *Guangyi Liu*, Christoforos Somarakis, and Nader Motee. \n
-  /The 60th IEEE Conference on Decision and Control (CDC)/, 2021.
-- *Classification-Aware Path Planning of Network of Robots.* \n
-  *Guangyi Liu*, Arash Amini, Martin Takáč, and Nader Motee. \n
-  /The 15th International Symposium on Distributed Autonomous Robotic Systems (DARS)/, 2021.
+- \[C14\]. Amirhossein Mollaei Khass, *Guangyi Liu*, Vivek Pandey, Wen Jiang, Boshu Lei, Kostas Daniilidis, Nader Motee 
+  [https://arxiv.org/abs/2510.06481 Active Next-Best-View Optimization for Risk-Averse Path Planning],
+  /ICRA 2026/.
+- \[C13\]. *Guangyi Liu*, Suzan Iloglu, Michael Caldara, Joseph W. Durham, Michael M. Zavlanos. 
+  [https://proceedings.mlr.press/v267/liu25ad.html Distributionally Robust Multi-Agent Reinforcement Learning for Dynamic Chute Mapping],
+  /ICML 2025/.
+- \[C12\]. *Guangyi Liu*\*, Wen Jiang\*, Boshu Lei\*, Vivek Pandey, Kostas Daniilidis and Nader Motee. (\* equal contribution) 
+  [https://arxiv.org/abs/2403.11396 Beyond Uncertainty: Risk-Aware Active View Acquisition for Safe Robot Navigation and 3D Scene Understanding with FisherRF],
+  /(submitting to RAL)/.
+- \[C11\]. Vivek Pandey\*, Arash Amini\*, *Guangyi Liu*, Ufuk Topcu, Qiyu Sun, Kostas Daniilidis, Nader Motee. (\* equal contribution) 
+  [Scalable Networked Feature Selection with Randomized Algorithm for Robot Navigation], 
+  /IROS 2024/.
+- \[C10\]. *Guangyi Liu*, Arash Amini, Vivek Pandey, and Nader Motee. 
+  Data-Driven Distributionally Robust Mitigation of Risk of Cascading Failures. 
+  /ACC 2024/.
+- \[C9\]. Arash Amini, *Guangyi Liu*, Vivek Pandey, and Nader Motee. 
+  Impact of Misperception on Emergence of Risk in Platoon of Autonomous Vehicles. 
+  /CDC 2023/.
+- \[C8\]. Vivek Pandey, *Guangyi Liu*, Arash Amini, and Nader Motee. 
+  Quantification of Distributionally Robust Risk of Cascade of Failures in Platoon of Vehicles. 
+  /CDC 2023/.
+- \[C7\]. *Guangyi Liu*, Disha Kamale, Cristian-Ioan Vasile, and Nader Motee. 
+  Symbolic Perception Risk in Autonomous Driving,
+  /ACC 2023/.
+- \[C6\]. *Guangyi Liu*, Vivek Pandey, Christoforos Somarakis, and Nader Motee. 
+  Cascading Waves of Fluctuation in Time-delay Multi-agent Rendezvous, 
+  /ACC 2023/.
+- \[C5\]. *Guangyi Liu*, Christoforos Somarakis, and Nader Motee. 
+  Emergence of Cascading Risk and Role of Spatial Locations of Collisions in Time-Delayed Platoon of Vehicles. 
+  /CDC 2022/.
+- \[C4\]. *Guangyi Liu*, Vivek Pandey, Christoforos Somarakis, and Nader Motee. 
+  Risk of Cascading Failures in Multi-agent Rendezvous with Communication Time Delay. 
+  /ACC 2022/.
+- \[C3\]. *Guangyi Liu*, Christoforos Somarakis, and Nader Motee. 
+  Risk of Cascading Failures in Time-Delayed Vehicle Platooning. 
+  /CDC 2021/.
+- \[C2\]. Arash Amini, *Guangyi Liu*, and Nader Motee. 
+  Robust Learning of Recurrent Neural Networks in Presence of Exogenous Noise. 
+  /CDC 2021/.
+- \[C1\]. *Guangyi Liu*, Arash Amini, Martin Takáč, and Nader Motee. 
+  Classification-Aware Path Planning of Network of Robots. 
+  /DARS 2021/.
 
 == Preprints
-- *Beyond Uncertainty: Risk-Aware Active View Acquisition for Safe Robot Navigation and 3D Scene Understanding with FisherRF* \n
-  *Guangyi Liu*, W. Jiang, B. Lei, V. Pandey, K. Daniilidis, N. Motee. (Submitting to RAL)
-- *Risk of Misclassification in Recurrent Neural Networks.* \n
-  *Guangyi Liu*, Arash Amini, and Nader Motee.
-- *Robustness Analysis of Classification Using Recurrent Neural Networks with Perturbed Sequential Input.* \n
-  *Guangyi Liu*, Arash Amini, Martin Takáč, and Nader Motee.
-- *Distributed Map Classification using Local Observations.* \n
-  *Guangyi Liu*, Arash Amini, Martin Takáč, Héctor Muñoz-Avila, and Nader Motee. /arXiv preprint arXiv:2012.10480/ (2020).
-- *A layered architecture for active perception: Image classification using deep reinforcement learning.* \n
-  Mousavi, Hossein K., *Guangyi Liu*, Weihang Yuan, Martin Takáč, Héctor Muñoz-Avila, and Nader Motee. /arXiv preprint arXiv:1909.09705/ (2019).
+- \[P4\]. *Guangyi Liu*, Arash Amini, and Nader Motee. 
+  Risk of Misclassification in Recurrent Neural Networks.
+- \[P3\]. *Guangyi Liu*, Arash Amini, Martin Takáč, and Nader Motee. 
+  Robustness Analysis of Classification Using Recurrent Neural Networks with Perturbed Sequential Input.
+- \[P2\]. *Guangyi Liu*, Arash Amini, Martin Takáč, Héctor Muñoz-Avila, and Nader Motee. 
+  Distributed Map Classification using Local Observations. 
+  /arXiv preprint arXiv:2012.10480 (2020)/.
+- \[P1\]. Mousavi, Hossein K., *Guangyi Liu*, Weihang Yuan, Martin Takáč, Héctor Muñoz-Avila, and Nader Motee. 
+  A layered architecture for active perception: Image classification using deep reinforcement learning. 
+  /arXiv preprint arXiv:1909.09705 (2019)/.
 
 == Selected Presentations & Posters
-- Oral and poster presentation of *"Origins of Risk of Cascading Collisions in Platoon of Autonomous Cars."*, Workshop on Safe and Reliable Robot Autonomy under Uncertainty, at IEEE ICRA 2022, Philadelphia, PA, USA.
-- Posters of *"Origins of Risk of Cascading Collisions in Platoon of Autonomous Cars."* and *"Risk of Cascading Failures in Multi-agent Rendezvous with Communication Time Delay."* at Robot Versatility Workshop, Lehigh University, May 2022.
-- Oral presentation of *"Robust Classification with Localized Observations Using Stable Recurrent Neural Networks."* Modeling and Optimization: Theory and Applications (MOPTA 2021), August 2021, Bethlehem, USA.
+- Oral and poster presentation of *Origins of Risk of Cascading Collisions in Platoon of Autonomous Cars.*, Workshop on Safe and Reliable Robot Autonomy under Uncertainty, at IEEE ICRA 2022, Philadelphia, PA, USA.
+- Posters of *Origins of Risk of Cascading Collisions in Platoon of Autonomous Cars.* and *Risk of Cascading Failures in Multi-agent Rendezvous with Communication Time Delay.* at Robot Versatility Workshop, Lehigh University, May 2022.
+- Oral presentation of *Robust Classification with Localized Observations Using Stable Recurrent Neural Networks.* Modeling and Optimization: Theory and Applications (MOPTA 2021), August 2021, Bethlehem, USA.

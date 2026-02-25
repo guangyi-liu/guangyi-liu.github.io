@@ -2,15 +2,51 @@
 = Guangyi Liu
 
 ~~~
-{}{img_left}{profile.jpg}{Photo of Guangyi Liu}{160}{160}
+{}{img_left}{image/profile.jpg}{Photo of Guangyi Liu}{240}{160}
 Guangyi Liu \n
 Postdoctoral Research Scientist \n
-[https://www.amazon.science/ Amazon Robotics] \n
+Amazon Robotics \n
 \n
-[mailto:gul316@lehigh.edu Email] \| [https://scholar.google.com/citations?user=qXEWcKYAAAAJ&hl=en Google Scholar] \| [https://www.researchgate.net/profile/Guangyi-Liu-8 ResearchGate]
+Email: gliu\[at\]lehigh.edu \| [https://scholar.google.com/citations?user=qXEWcKYAAAAJ&hl=en Google Scholar]
 ~~~
 
 == Welcome
-Hi, welcome to my website! I am currently a Postdoctoral Research Scientist at Amazon Robotics. I obtained my Ph.D. at the Autonomous and Intelligent Robotics (AIR) Laboratory, Department of Mechanical Engineering, [https://www1.lehigh.edu/ Lehigh University], working under the advisory of Prof. Nader Motee. 
+Hi, welcome to my website! I am currently a Postdoctoral Research Scientist at Amazon Robotics. I obtained my Ph.D. at the Autonomous and Intelligent Robotics (AIR) Laboratory, Department of Mechanical Engineering, [https://www1.lehigh.edu/ Lehigh University], working under the advisory of Prof. Nader Motee.  Before joining Lehigh, I obtained my B.E. degree at Beijing Institute of Technology. My research interests are risk and robustness analysis in networked control systems and perception systems. I served as a workshop organizer in ACC 2023 and organized four invited sessions at ACC 2023 - 2026.
 
-My research interests are in *risk and robustness analysis in networked control systems and perception systems*.
+== Education
+- *Ph.D. in Mechanical Engineering*, Lehigh University, 2024
+- *M.S. in Mechanical Engineering*, Lehigh University, 2018
+- *B.E. in Aircraft Design and Engineering*, Beijing Institute of Technology, 2016
+
+== Media
+
+- [https://engineering.lehigh.edu/news/article/innovative-algorithms-safer-robot-perception "Innovative algorithms for safer robot perception"] interviewed by P.C. Rossin College of Engineering and Applied Science, Lehigh University. 
+
+== Recent News
+
+- *(1\/31\/2026)* Our recent work *Active Next-Best-View Optimization for Risk-Averse Path Planning* ([https://arxiv.org/abs/2510.06481 paper]) was accepted at ICRA 2026!
+- *(1\/18\/2026)* Our invited session on "Autonomous Risk-Aware Perception, Planning, and Control", co-organized with Na Li, Ufuk Topcu, Michael M. Zavlanos, and Nader Motee was accepted at ACC 2026!
+
+== Research Areas
+
+- *Distributionally Robust Multi-Agent Reinforcement Learning for Dynamic Chute Mapping* (Paper: C13) \n
+We propose a Distributionally Robust Multi-Agent Reinforcement Learning (DRMARL) framework for destination-to-chute mapping in Amazon Robotics warehouses, designed to handle uncertain and dynamic package induction rates. DRMARL integrates group distributionally robust optimization (DRO) with a contextual bandit-based predictor to improve learning efficiency and ensure robust chute mapping under varying induction conditions.
+
+- *Beyond Uncertainty: Risk-Aware Active View Acquisition for Safe Robot Navigation and 3D Scene Understanding with FisherRF* (Paper: C12, C14) \n
+We introduce a novel approach to enhance robot navigation safety and improve 3D scene understanding by extending beyond conventional uncertainty-based methods.
+
+- *Risk analysis of cascading failures in networked control systems with autonomous vehicles and multi-agent rendezvous.* (Papers: J2, C5, C6, C7, C8) \n
+We investigate and quantify how the existing failure (e.g., inter-vehicle collisions) will propagate through the network. We also show how communication time-delay and input uncertainty will pose fundamental limits and trade-offs on the risk of cascading collisions.
+
+- *Data-Driven Distributionally Robust Mitigation of Risk of Cascading Collisions* (Papers: C10, C2) \n
+We introduce a novel data-driven method to mitigate the risk of cascading failures in delayed discrete-time Linear Time-Invariant (LTI) systems, which involves formulating a distributionally robust finite-horizon optimal control problem while satisfying a set of distributionally chances constraints on cascading failures.
+
+- *Symbolic Perception Risk in Autonomous Driving* (Papers: C9, C3) \n
+We develop a novel framework to assess the risk of misperception in a traffic sign classification task in the presence of exogenous noise.
+
+- *Risk of Phase Incoherence in Wide Area Control of Synchronous Power Networks* (Papers: J1) \n
+We develop a framework to quantify systemic risk measures in a class of Wide-Area-Control (WAC) laws in power networks in the presence of noisy and time-delayed sensory data, and reveal the effect of network parameters, information flow in WAC architecture, statistics of noise, and time-delays are characterized.
+
+- *Robust Analysis of Multi-agent Map Classification with RNN* (Papers: C4, C1, P1 - P4) \n
+For a given stable recurrent neural network (RNN) that is trained to perform a classification task using sequential inputs, we quantify explicit robustness bounds as a function of trainable weight matrices.
+
