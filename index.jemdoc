@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{index.html}
+= Guangyi Liu
+
+~~~
+{}{img_left}{profile.jpg}{Photo of Guangyi Liu}{160}{160}
+Guangyi Liu \n
+Postdoctoral Research Scientist \n
+[https://www.amazon.science/ Amazon Robotics] \n
+\n
+[mailto:gul316@lehigh.edu Email] \| [https://scholar.google.com/citations?user=qXEWcKYAAAAJ&hl=en Google Scholar] \| [https://www.researchgate.net/profile/Guangyi-Liu-8 ResearchGate]
+~~~
+
+== Welcome
+Hi, welcome to my website! I am currently a Postdoctoral Research Scientist at Amazon Robotics. I obtained my Ph.D. at the Autonomous and Intelligent Robotics (AIR) Laboratory, Department of Mechanical Engineering, [https://www1.lehigh.edu/ Lehigh University], working under the advisory of Prof. Nader Motee. 
+
+My research interests are in *risk and robustness analysis in networked control systems and perception systems*.
