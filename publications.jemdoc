@@ -23,46 +23,48 @@
   [Scalable Networked Feature Selection with Randomized Algorithm for Robot Navigation], 
   /IROS 2024/.
 - \[C10\]. *Guangyi Liu*, Arash Amini, Vivek Pandey, and Nader Motee. 
-  Data-Driven Distributionally Robust Mitigation of Risk of Cascading Failures. 
+  [Data-Driven Distributionally Robust Mitigation of Risk of Cascading Failures]. 
   /ACC 2024/.
 - \[C9\]. Arash Amini, *Guangyi Liu*, Vivek Pandey, and Nader Motee. 
-  Impact of Misperception on Emergence of Risk in Platoon of Autonomous Vehicles. 
+  [Impact of Misperception on Emergence of Risk in Platoon of Autonomous Vehicles]. 
   /CDC 2023/.
 - \[C8\]. Vivek Pandey, *Guangyi Liu*, Arash Amini, and Nader Motee. 
-  Quantification of Distributionally Robust Risk of Cascade of Failures in Platoon of Vehicles. 
+  [Quantification of Distributionally Robust Risk of Cascade of Failures in Platoon of Vehicles]. 
   /CDC 2023/.
 - \[C7\]. *Guangyi Liu*, Disha Kamale, Cristian-Ioan Vasile, and Nader Motee. 
-  Symbolic Perception Risk in Autonomous Driving,
+  [Symbolic Perception Risk in Autonomous Driving],
   /ACC 2023/.
 - \[C6\]. *Guangyi Liu*, Vivek Pandey, Christoforos Somarakis, and Nader Motee. 
-  Cascading Waves of Fluctuation in Time-delay Multi-agent Rendezvous, 
+  [Cascading Waves of Fluctuation in Time-delay Multi-agent Rendezvous], 
   /ACC 2023/.
 - \[C5\]. *Guangyi Liu*, Christoforos Somarakis, and Nader Motee. 
-  Emergence of Cascading Risk and Role of Spatial Locations of Collisions in Time-Delayed Platoon of Vehicles. 
+  [Emergence of Cascading Risk and Role of Spatial Locations of Collisions in Time-Delayed Platoon of Vehicles]. 
   /CDC 2022/.
 - \[C4\]. *Guangyi Liu*, Vivek Pandey, Christoforos Somarakis, and Nader Motee. 
-  Risk of Cascading Failures in Multi-agent Rendezvous with Communication Time Delay. 
+  [Risk of Cascading Failures in Multi-agent Rendezvous with Communication Time Delay]. 
   /ACC 2022/.
 - \[C3\]. *Guangyi Liu*, Christoforos Somarakis, and Nader Motee. 
-  Risk of Cascading Failures in Time-Delayed Vehicle Platooning. 
+  [Risk of Cascading Failures in Time-Delayed Vehicle Platooning]. 
   /CDC 2021/.
 - \[C2\]. Arash Amini, *Guangyi Liu*, and Nader Motee. 
-  Robust Learning of Recurrent Neural Networks in Presence of Exogenous Noise. 
+  [Robust Learning of Recurrent Neural Networks in Presence of Exogenous Noise]. 
   /CDC 2021/.
 - \[C1\]. *Guangyi Liu*, Arash Amini, Martin Takáč, and Nader Motee. 
-  Classification-Aware Path Planning of Network of Robots. 
+  [Classification-Aware Path Planning of Network of Robots]. 
   /DARS 2021/.
 
 == Preprints
+- \[P5\]. Sikata Sengupta\*, *Guangyi Liu*\*, Omer Gottesman, Joseph W Durham, Michael Kearns, Aaron Roth, Michael Caldara. (\* equal contribution) 
+  [Multi-Objective Reinforcement Learning for Large-Scale Tote Allocation in Human-Robot Collaborative Fulfillment Centers]. 
 - \[P4\]. *Guangyi Liu*, Arash Amini, and Nader Motee. 
-  Risk of Misclassification in Recurrent Neural Networks.
+  [Risk of Misclassification in Recurrent Neural Networks].
 - \[P3\]. *Guangyi Liu*, Arash Amini, Martin Takáč, and Nader Motee. 
-  Robustness Analysis of Classification Using Recurrent Neural Networks with Perturbed Sequential Input.
+  [Robustness Analysis of Classification Using Recurrent Neural Networks with Perturbed Sequential Input].
 - \[P2\]. *Guangyi Liu*, Arash Amini, Martin Takáč, Héctor Muñoz-Avila, and Nader Motee. 
-  Distributed Map Classification using Local Observations. 
+  [Distributed Map Classification using Local Observations]. 
   /arXiv preprint arXiv:2012.10480 (2020)/.
 - \[P1\]. Mousavi, Hossein K., *Guangyi Liu*, Weihang Yuan, Martin Takáč, Héctor Muñoz-Avila, and Nader Motee. 
-  A layered architecture for active perception: Image classification using deep reinforcement learning. 
+  [A layered architecture for active perception: Image classification using deep reinforcement learning]. 
   /arXiv preprint arXiv:1909.09705 (2019)/.
 
 == Selected Presentations & Posters
