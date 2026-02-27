@@ -2,7 +2,7 @@
 = Academic Services
 
 == Workshop Organized:
-- (Lead Organizer and speaker) "Principles of Risk Quantification in Networked Control Systems" at the 2023 American Control Conference (ACC) on 5/30/2023, please find more information at https://wordpress.lehigh.edu/robotics/acc23_risk_workshop/. Co-organized with Nader Motee.
+- (Lead Organizer and speaker) [https://wordpress.lehigh.edu/robotics/acc23_risk_workshop/ Principles of Risk Quantification in Networked Control Systems] at the 2023 American Control Conference (ACC). Co-organized with Nader Motee.
 
 == Invited Sessions organized
 - (Lead Organizer and co-chair) Invited Session "Risk-Aware Design and Control" at the 2023 American Control Conference (ACC). Co-organized with Christoforos Somarakis and Nader Motee.
@@ -16,6 +16,6 @@
 - (Lead Organizer and co-chair) Invited Session "Autonomous Risk-Aware Perception, Planning, and Control" at the 2026 American Control Conference (ACC). Co-organized with Na Li, Ufuk Topcu, Michael M. Zavlanos, and Nader Motee.
 
 == Reviews
-- Journal: Automatica, INFORMS Journal on Computing, IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Robotics (TRO), IEEE Transactions on Signal and Information Processing over Networks (TSIPN), IEEE TCNS
+- Journal: Automatica, INFORMS Journal on Computing, RA-L, TRO, TSIPN, TCNS
 
-- Confenrences: IEEE-CDC, IEEE-ACC, IEE-ICRA, IEEE-IROS, IFAC-NECSYS, IEEE-CCTA.
+- Confenrences: CDC, ACC, ICRA, IROS, NECSYS, CCTA.

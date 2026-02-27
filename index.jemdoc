@@ -31,6 +31,18 @@ I served as a workshop organizer in ACC 2023 and organized five invited sessions
 - *(1\/31\/2026)* Our recent work *Active Next-Best-View Optimization for Risk-Averse Path Planning* ([https://arxiv.org/abs/2510.06481 paper]) was accepted at ICRA 2026!
 - *(1\/18\/2026)* Our invited session on "Autonomous Risk-Aware Perception, Planning, and Control", co-organized with Na Li, Ufuk Topcu, Michael M. Zavlanos, and Nader Motee was accepted at ACC 2026!
 
+== Selected Talks and Seminars:
+
+- (05\/2025) "Distributionally Robust Multi-Agent Reinforcement Learning for Dynamic Chute Mapping" at [https://nescw.org/ 2nd Northeast Systems and Control Workshop (NESCW)].
+
+- (09\/2024) "Beyond Uncertainty: Risk-Aware Active View Acquisition for Safe Robot Navigation and 3D Scene Understanding with FisherRF" at [https://www.umass.edu/robotics/nerc2024 NERC 2024].
+
+- (05\/2024) "Towards Safe Learning and Perception-based Networked Control Systems: A Risk-aware Approach" at the [https://www.grasp.upenn.edu/events/grasp-seminar-guangyi-liu/ GRASP seminar] at UPenn.
+
+- (10\/2023) "Distributionally Robust Mitigation of Cascading Risk in Cooperative and Competitive Vehicle Platooning" at the xLab, UPenn.
+
+- (08\/2023) "Risk of Misperception in Decision-Making and Control" on behalf of my advisor Prof. Nader Motee, at the ONR Science of Autonomy Program Review.
+
 == Selected Research Areas
 
 ~~~
